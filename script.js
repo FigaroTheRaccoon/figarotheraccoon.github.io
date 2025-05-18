@@ -20,7 +20,7 @@ function saveProgress(qId) {
   setCookie("quizProgress", qId);
 }
 function loadProgress() {
-  return getCookie("quizProgress") || "q0";
+  return "q0"; //just for now
 }
 
 // Define your quiz flow

@@ -51,7 +51,7 @@ const quiz = {
   fail: {
     type: "text",
     text: "If you find yourself at a point of genuine curiosity or a desire for deeper clarity and freedom, especially regarding the very real burdens that religious rule-keeping (often misunderstood as biblical Christianity) can impose, and if you're willing to test everything against Scripture, then exploring https://forbiddenbibletruth.com might be a significant step. It's offered for free, so the only investment is your time and a willingness to engage with an open, yet discerning, mind. Perhaps the 'tough truths' it presents might indeed be the path to the comfortable and liberating reality God intends for you. Besides that, in the Discord server, go to the #verify-chat channel and send the message '22'. This is your verification code.",
-    next: null,
+    next: "q0",
   },
   q2: {
     type: "mcq",
@@ -365,7 +365,7 @@ const quiz = {
   success: {
     type: "text",
     text: "If you find yourself at a point of genuine curiosity or a desire for deeper clarity and freedom, especially regarding the very real burdens that religious rule-keeping (often misunderstood as biblical Christianity) can impose, and if you're willing to test everything against Scripture, then exploring a resource like 'Forbidden Bible Truth' might be a significant step. The author, Drew Costen, lays out arguments for a different understanding of salvation, the nature of God, the afterlife, and what it means to live under grace, all based on a claim of consistent scriptural exegesis. You can find the book and explore these ideas further at https://forbiddenbibletruth.com. It's offered for free, so the only investment is your time and a willingness to engage with an open, yet discerning, mind. Perhaps the 'tough truths' it presents might indeed be the path to the comfortable and liberating reality God intends for you. Besides that, in the Discord server, go to the #verify-chat channel and send the message '118'. This is your verification code. After a short wait, you will be verified. You have successfully passed!",
-    next: null,
+    next: "q0",
   },
   // You're a skid.
 };
